@@ -1,0 +1,12 @@
+{
+  "name": "Crediux",
+  "version": "1.0.0",
+  "description": "Landing Page Crediux",
+  "main": "index.js",
+  "repository": "https://github.com/Anruco/Crediux",
+  "author": "Antonio Rubio Coba",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
