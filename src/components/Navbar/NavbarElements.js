@@ -42,18 +42,19 @@ color: #fff;
     text-decoration: none;
 `;
 
-
 export const MobileIcon = styled.div`
+
     display: none;
-    @media screen and (max-witdh: 768px){
+    @media screen and (max-width: 768px){
         display: block;
         position: absolute;
         top: 0;
-        right: 0;
+        right:0 ;
         transform: translate(-100%, 60%);
         font-size: 1.8rem;
         cursor: pointer;
         color: #fff;
+
     }
 `;
 
